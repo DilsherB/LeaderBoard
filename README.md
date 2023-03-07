@@ -59,7 +59,7 @@
 
 <!-- GETTING STARTED -->
 
-### 💻 GETTING STARTED
+### 💻 GETTING STARTED <a name="getting-started"></a>
 
 ### Setup
 
