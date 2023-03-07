@@ -51,7 +51,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 LIVE DEMO <a name="live-demo"></a>
 
 > <a href="#">Comming soon</a>
 
@@ -59,7 +59,7 @@
 
 <!-- GETTING STARTED -->
 
-### 💻 Getting Started
+### 💻 GETTING STARTED
 
 ### Setup
 
