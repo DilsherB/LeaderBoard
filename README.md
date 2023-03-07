@@ -59,7 +59,6 @@
 
 <!-- GETTING STARTED -->
 
-
 ### Setup
 
 > <p> git clone https://github.com/DilsherB/LeaderBoard.git</p>
@@ -82,6 +81,15 @@ To install this project in your local machine use
 ### Usage
 
 > npm start
+
+<!-- TESTING -->
+
+> To run the project, execute the following command:
+npm run test
+
+<!-- DEPLOYMENT -->
+
+> github pages
 
 <!-- AUTHORS -->
 
