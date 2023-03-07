@@ -84,10 +84,14 @@ To install this project in your local machine use
 
 <!-- TESTING -->
 
+### RUN TEST
+
 > To run the project, execute the following command:
 npm run test
 
 <!-- DEPLOYMENT -->
+
+### DEPLOYMENT
 
 > github pages
 
