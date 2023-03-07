@@ -59,7 +59,7 @@
 
 <!-- GETTING STARTED -->
 
-###💻 Getting Started
+### 💻 Getting Started
 
 ### Setup
 
