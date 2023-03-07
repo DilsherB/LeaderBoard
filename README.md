@@ -59,6 +59,8 @@
 
 <!-- GETTING STARTED -->
 
+###💻 Getting Started
+
 ### Setup
 
 > <p> git clone https://github.com/DilsherB/LeaderBoard.git</p>
