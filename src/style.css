@@ -33,7 +33,7 @@ li {
   margin-top: 20px;
 }
 
-.scoreBoard>ul>li:first-child {
+.scoreBoard > ul > li:first-child {
   font-weight: bolder;
   font-size: larger;
   text-decoration: underline;
