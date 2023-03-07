@@ -1,3 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.scoreBoard {
+  margin-top: 20px;
+  border: 2px solid black;
+  padding: 0 10px;
+  border-radius: 5px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+.scoreBoard > ul > li:first-child {
+  font-weight: bolder;
+  font-size: larger;
+  text-decoration: underline;
+}
+
+input {
+  padding: 5px 10px;
+}
+
+.right {
+  text-align: right;
 }
