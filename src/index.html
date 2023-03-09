@@ -8,30 +8,26 @@
 </head>
 
 <body>
-    <h1>Leader Board</h1>
+  <h1>Leader Board</h1>
   <div class="wrapper">
     <div>
       <li>
-      <h3>Recent scores </h3>
-        <button>Refresh</button>
-    </li>
+        <h3>Recent scores </h3>
+        <button class="refreshBtn">Refresh</button>
+      </li>
       <div class="scoreBoard">
-        <ul>
-          <li> <span>Name</span> <span>Score</span> </li>
-          <li> <span>Ali</span> <span>5000</span> </li>
-          <li> <span>Osama</span> <span>4000</span> </li>
-          <li> <span>Ahmed</span> <span>3000</span> </li>
-          <li> <span>Jasim</span> <span>2000</span> </li>
+        <ul class="scoresList">
+
         </ul>
       </div>
     </div>
     <div>
       <h3>Add your score</h3>
-      <ul>
-        <li> <input type="text" id="name" placeholder="Your name"> </li>
-        <li> <input type="text" id="name" placeholder="Your name"> </li>
-        <li> <input class="right" type="button" id="Submit" value="Submit"> </li>
-      </ul>
+      <form class="form">
+        <input type="text" placeholder="Your name" name="name">
+        <input type="number" placeholder="Your score" name="score">
+        <input class="right" type="submit" id="Submit" value="Submit">
+      </form>
     </div>
   </div>
 </body>
