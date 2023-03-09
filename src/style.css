@@ -26,23 +26,24 @@ h1 {
   border-radius: 5px;
 }
 
-li {
+li,
+input {
+  padding: 5px 10px;
   display: flex;
   justify-content: space-between;
   list-style-type: none;
   margin-top: 20px;
 }
 
-.scoreBoard > ul > li:first-child {
-  font-weight: bolder;
-  font-size: larger;
-  text-decoration: underline;
-}
-
-input {
-  padding: 5px 10px;
+.scoreItem {
+  display: flex;
+  justify-content: space-between;
 }
 
 .right {
   text-align: right;
+}
+
+button {
+  padding: 5px;
 }
