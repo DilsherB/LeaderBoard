@@ -32,11 +32,17 @@
 
 # 📖 Leader Board <a name="about-project"></a>
 
-> this is a project to add, delete and update tasks to do.
+> This is a project to post/get data to/from API.
+<li>You can add your name and score to API.</li>
+<li>On clicking refresh data wil be displayed in scoreboard.</li>
 
 ## 🛠 Built With <a name="built-with"> </a>
 
-> HTML 5 , css3, javascript ES6 and webpack.
+<ol>
+  <li>JavaScript ES6</li>
+  <li>Webpack</li>
+  <li>CSS</li>
+</ol>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -45,7 +51,12 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-> At this stage it is gray structure of 'Leader Board'
+
+<ol>
+  <li>Adding a new scores and submitting it to an API.</li>
+  <li>Fetching data from the API and displaying on the UI.</li>
+  <li>UI/UX implementation.</li>
+</ol>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,15 +64,18 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> <a href="#">Comming soon</a>
+> <a href="https://dilsherb.github.io/LeaderBoard/dist/">click to see live demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
+## 💻 GETTING STARTED
+> To get a local copy up and running follow the steps below:
 
 ### Setup
 
+> Open you favourite code editor and type the follwing:
 > <p> git clone https://github.com/DilsherB/LeaderBoard.git</p>
 > <p> cd LeaderBoard </p>
 
@@ -78,9 +92,12 @@ In order to run this project you only need:
 To install this project in your local machine use
 
 > npm i
+> To build webpack bundle file run the following command:
+> npm run build
 
 ### Usage
 
+> To run the project just type the follwing after above command
 > npm start
 
 <!-- AUTHORS -->
@@ -99,7 +116,8 @@ To install this project in your local machine use
 
 > <h3>in future I'll add following functionalities:</h3>
 <ol>
-  <li>You can add your score </li>
+  <li> Some backgrounds to make it more attractive </li>
+  <li> Ordering the scores in descending order </li>
 </ol>
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -113,7 +131,7 @@ Feel free to check the [issues page](https://github.com/DilsherB/LeaderBoard/iss
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like the project please give it star
+> If you like the project please give it star (⭐️)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
