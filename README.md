@@ -97,8 +97,8 @@ In order to run this project you only need:
 
 ### Usage
 
-- To run the project just type the follwing after above command
- `npm start`
+- To run the project just type the follwing after above command </br>
+# `npm start`
 
 <!-- AUTHORS -->
 
