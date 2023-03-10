@@ -30,15 +30,15 @@ h1 {
   border-radius: 5px;
 }
 
-.scoresList li:nth-child(even) {
-  background-color: gray;
-}
-
 li,
 input {
   padding: 5px 10px;
   display: flex;
   justify-content: space-between;
+}
+
+.scoresList li:nth-child(even) {
+  background-color: gray;
 }
 
 input[type="text"],
