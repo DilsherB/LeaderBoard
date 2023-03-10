@@ -89,10 +89,10 @@ In order to run this project you only need:
 
 ### Install
 
-To install this project in your local machine use
+  To install this project in your local machine use
 
   `npm i`
-> To build webpack bundle file run the following command:
+  To build webpack bundle file run the following command:
   `npm run build`
 
 ### Usage
