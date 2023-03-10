@@ -76,6 +76,7 @@
 ### Setup
 
 > Open you favourite code editor and type the follwing:
+
 > <p> git clone https://github.com/DilsherB/LeaderBoard.git</p>
 > <p> cd LeaderBoard </p>
 
@@ -89,11 +90,11 @@ In order to run this project you only need:
 
 ### Install
 
-- To install this project in your local machine use
+To install this project in your local machine use
 
-  `npm i` </br>
+ `npm i` </br>
 - To build webpack bundle file run the following command: </br>
-  `npm run build`
+ `npm run build`
 
 ### Usage
 
