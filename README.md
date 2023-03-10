@@ -93,7 +93,7 @@ In order to run this project you only need:
 
   `npm i`
 >  To build webpack bundle file run the following command:
-  `npm run build`
+>  `npm run build`
 
 ### Usage
 
