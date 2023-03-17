@@ -62,13 +62,14 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 LIVE DEMO <a name="live-demo"></a>
 
 > <a href="https://dilsherb.github.io/LeaderBoard/dist/">click to see live demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 
 ## 💻 GETTING STARTED
 > To get a local copy up and running follow the steps below:
@@ -100,6 +101,19 @@ To install this project in your local machine use
 
 - To run the project just type the follwing after above command </br>
  `npm start`
+
+<!-- TESTING -->
+
+### RUN TEST
+
+> To run the project, execute the following command:
+npm run test
+
+<!-- DEPLOYMENT -->
+
+### DEPLOYMENT
+
+> github pages
 
 <!-- AUTHORS -->
 
