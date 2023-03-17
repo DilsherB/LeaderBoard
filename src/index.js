@@ -20,6 +20,5 @@ form.addEventListener('submit', (e) => {
     user: name,
     score,
   });
-  e.target.name.value = '';
-  e.target.score.value = '';
+  form.reset();
 });
