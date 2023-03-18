@@ -1,7 +1,11 @@
 const extractData = (gameData) => {
   let apiMarkup = '';
   gameData.forEach((data) => {
-    apiMarkup += `<li class="scoreItem"> <span>${data.user}:</span> <span>${data.score}</span></li>`;
+    apiMarkup += `
+      <li class="scoreItem"> 
+        <span>${data.user}:</span> 
+        <span>${data.score}</span>
+      </li>`;
   });
   return apiMarkup;
 };
